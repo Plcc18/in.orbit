@@ -3,7 +3,7 @@
 
 ## Descrição 📎
 
-Bem vindo ao "in.orbit"! O projeto é uma To Do List que facilita a gestão de tarefas de forma eficiente e intuitiva. Com uma interface intuitiva e recursos personalizados, nosso projeto ajuda você a organizar atividades, definir prioridades e alcançar suas metas, tudo de maneira simples.
+Bem vindo ao "in.orbit"! O projeto é uma To Do List que facilita a gestão de tarefas de forma eficiente e intuitiva. Com uma interface intuitiva e recursos personalizados, o projeto ajuda você a organizar atividades, definir prioridades e alcançar suas metas, tudo de maneira simples.
 
 ## Desenvolvimento do Projeto
 
