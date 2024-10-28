@@ -1,4 +1,4 @@
-# In.orbit 🧑🏼‍💻
+# In.orbit 🌍
 
 
 ## Descrição 📎
